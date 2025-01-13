@@ -11,7 +11,7 @@
 -
 <img alt = "Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img alt = "mysql" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
-<img alt="Aws" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>
+<img alt="AWS Amplify" src ="https://img.shields.io/badge/AWS Amplify-#FF9900.svg?&style=for-the-badge&logo=AWS Amplify&logoColor=white"/>
 
 🔧 Tools
 - 
