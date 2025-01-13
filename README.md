@@ -19,6 +19,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a>
 
+💻 Online Judge
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khs001023)](https://solved.ac/khs001023)
 
 💬 Contact
 - 
