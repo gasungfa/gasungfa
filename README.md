@@ -7,7 +7,7 @@
 
 ⚡ Tech stack
 -
-<img alt = "Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+<a href="" target="_blank"><img alt = "Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
 <img alt = "mysql" src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"> 
 
 🔧 Tools
